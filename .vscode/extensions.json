@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "bungcip.better-toml",
+    "editorconfig.editorconfig",
+    "ms-python.python",
+    "kevinrose.vsc-python-indent",
+    "ms-python.vscode-pylance"
+  ]
+}
